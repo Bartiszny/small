@@ -1,4 +1,5 @@
- /* simplifying wrapper for std::condition_variable, c++11
+//Kurs gita
+/* simplifying wrapper for std::condition_variable, c++11
 
 make flags:
 	CXXFLAGS+='-Wall -Wextra' LDFLAGS+=-pthread
